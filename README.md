@@ -11,8 +11,9 @@ Also building mobile applications using Java/Kotlin, Swift/Objective C, Flutter 
  - Always hunger to learn the most up-to-date technologies and learn fast
  - Devoting full time and extra service for long-term clients
 
-##💻 Technologies & Tools
-###Mobile
+## 💻 Technologies & Tools
+
+### Mobile
 - Java, Kotlin, Objective-C, Swift
 - React Native, GraphQL, Apollo, React-Apollo
 - Flutter, IONIC, Phone Gap
