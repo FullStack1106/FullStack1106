@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### I value the quality before everything else, because it is the most critical factor of a strategic success.
 I am specialized in building web sites and applications using Javascript and related technologies like Angular JS, React, Vue, Node.js and MEAN, MERN Stark, Grunt and Gulp
+
 Also building mobile applications using Java/Kotlin, Swift/Objective C, Flutter React Native.
 
 ## ❤️ Work Ethic
